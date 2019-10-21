@@ -1,0 +1,26 @@
+
+
+#gallery img:hover {
+ box-shadow: 0px 2px 20px black;
+	transform:scale(1.03);
+	transition: 0.6s;
+}
+
+.gallery-header {
+	color: white;
+	text-align: right;
+}
+#s1, #s2 {
+	    height: 2px;
+    border-top: 1px solid #fff;
+}
+
+#s1 {
+	width: 80%;
+	margin-left: 20%;
+}
+
+#s2 {
+	width: 74%;
+	margin-left: 26%;
+}
